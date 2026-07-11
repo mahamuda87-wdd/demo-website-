@@ -1,0 +1,10 @@
+.container1{
+    background-color: #1e3c7c;
+    padding: 12%;
+}
+.container1 .card-body{
+    background-color: #193269;
+}
+.container1 .card{
+     border:#193269
+}
